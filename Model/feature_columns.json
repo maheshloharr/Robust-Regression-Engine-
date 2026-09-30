@@ -1,0 +1,13 @@
+[
+  "area_sqft",
+  "bedrooms",
+  "bathrooms",
+  "location_score",
+  "property_age",
+  "distance_city_km",
+  "near_school",
+  "near_metro",
+  "crime_rate_index",
+  "sale_year",
+  "sale_month"
+]
