@@ -1,10 +1,4 @@
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
 
-# Jupyter Notebook
-.ipynb_checkpoints/
 
 # Virtual Environment
 venv/
@@ -35,13 +29,7 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Large / generated files
-*.pkl
-*.joblib
 
 # Excel temporary files
 ~$*.xlsx
 ~$*.xls
-
-# Streamlit
-.streamlit/secrets.toml
